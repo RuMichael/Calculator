@@ -1,0 +1,29 @@
+c:\users\максим\documents\visual studio 2015\Projects\calc_remake v.1.01\calc_remake v.1.01\bin\Debug\calc_remake v.1.01.exe.config
+c:\users\максим\documents\visual studio 2015\Projects\calc_remake v.1.01\calc_remake v.1.01\bin\Debug\calc_remake v.1.01.exe
+c:\users\максим\documents\visual studio 2015\Projects\calc_remake v.1.01\calc_remake v.1.01\bin\Debug\calc_remake v.1.01.pdb
+c:\users\максим\documents\visual studio 2015\Projects\calc_remake v.1.01\calc_remake v.1.01\obj\Debug\calc_remake v.1.01.csprojResolveAssemblyReference.cache
+c:\users\максим\documents\visual studio 2015\Projects\calc_remake v.1.01\calc_remake v.1.01\obj\Debug\calc_remake_v._1._01.calc_remake.resources
+c:\users\максим\documents\visual studio 2015\Projects\calc_remake v.1.01\calc_remake v.1.01\obj\Debug\calc_remake_v._1._01.Properties.Resources.resources
+c:\users\максим\documents\visual studio 2015\Projects\calc_remake v.1.01\calc_remake v.1.01\obj\Debug\calc_remake v.1.01.csproj.GenerateResource.Cache
+c:\users\максим\documents\visual studio 2015\Projects\calc_remake v.1.01\calc_remake v.1.01\obj\Debug\calc_remake v.1.01.exe
+c:\users\максим\documents\visual studio 2015\Projects\calc_remake v.1.01\calc_remake v.1.01\obj\Debug\calc_remake v.1.01.pdb
+C:\Users\Светлана и Александр\Desktop\calc_remake v.1.01\calc_remake v.1.01\bin\Debug\calc_remake v.1.01.exe.config
+C:\Users\Светлана и Александр\Desktop\calc_remake v.1.01\calc_remake v.1.01\bin\Debug\calc_remake v.1.01.exe
+C:\Users\Светлана и Александр\Desktop\calc_remake v.1.01\calc_remake v.1.01\bin\Debug\calc_remake v.1.01.pdb
+C:\Users\Светлана и Александр\Desktop\calc_remake v.1.01\calc_remake v.1.01\obj\Debug\calc_remake v.1.01.csprojResolveAssemblyReference.cache
+C:\Users\Светлана и Александр\Desktop\calc_remake v.1.01\calc_remake v.1.01\obj\Debug\calc_remake_v._1._01.calc_remake.resources
+C:\Users\Светлана и Александр\Desktop\calc_remake v.1.01\calc_remake v.1.01\obj\Debug\calc_remake_v._1._01.Properties.Resources.resources
+C:\Users\Светлана и Александр\Desktop\calc_remake v.1.01\calc_remake v.1.01\obj\Debug\calc_remake v.1.01.csproj.GenerateResource.cache
+C:\Users\Светлана и Александр\Desktop\calc_remake v.1.01\calc_remake v.1.01\obj\Debug\calc_remake v.1.01.csproj.CoreCompileInputs.cache
+C:\Users\Светлана и Александр\Desktop\calc_remake v.1.01\calc_remake v.1.01\obj\Debug\calc_remake v.1.01.exe
+C:\Users\Светлана и Александр\Desktop\calc_remake v.1.01\calc_remake v.1.01\obj\Debug\calc_remake v.1.01.pdb
+C:\Users\Светлана и Александр\Desktop\github c#\calculate\calc_remake v.1.01\bin\Debug\calc_remake v.1.01.exe.config
+C:\Users\Светлана и Александр\Desktop\github c#\calculate\calc_remake v.1.01\bin\Debug\calc_remake v.1.01.exe
+C:\Users\Светлана и Александр\Desktop\github c#\calculate\calc_remake v.1.01\bin\Debug\calc_remake v.1.01.pdb
+C:\Users\Светлана и Александр\Desktop\github c#\calculate\calc_remake v.1.01\obj\Debug\calc_remake v.1.01.csprojResolveAssemblyReference.cache
+C:\Users\Светлана и Александр\Desktop\github c#\calculate\calc_remake v.1.01\obj\Debug\calc_remake_v._1._01.calc_remake.resources
+C:\Users\Светлана и Александр\Desktop\github c#\calculate\calc_remake v.1.01\obj\Debug\calc_remake_v._1._01.Properties.Resources.resources
+C:\Users\Светлана и Александр\Desktop\github c#\calculate\calc_remake v.1.01\obj\Debug\calc_remake v.1.01.csproj.GenerateResource.cache
+C:\Users\Светлана и Александр\Desktop\github c#\calculate\calc_remake v.1.01\obj\Debug\calc_remake v.1.01.csproj.CoreCompileInputs.cache
+C:\Users\Светлана и Александр\Desktop\github c#\calculate\calc_remake v.1.01\obj\Debug\calc_remake v.1.01.exe
+C:\Users\Светлана и Александр\Desktop\github c#\calculate\calc_remake v.1.01\obj\Debug\calc_remake v.1.01.pdb
