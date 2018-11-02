@@ -266,9 +266,8 @@ namespace calc_remake_v._1._01
         {
             double arg2 = double.Parse(Tablo.Text);
             Tablo.Text = (Math.Sqrt(arg2)).ToString();
-            clear = true; 
-            //else
-            //    Tablo.Text = "Нет решений";
+            history.Items.Add(Tablo.Text);
+            clear = true;             
         }
         /// <summary>
         /// 1 делить на x
@@ -279,6 +278,7 @@ namespace calc_remake_v._1._01
         {
             double arg2 = double.Parse(Tablo.Text);
             Tablo.Text = (1 / arg2).ToString();
+            history.Items.Add(Tablo.Text);
             clear = true;
         }
         /// <summary>
@@ -315,11 +315,11 @@ namespace calc_remake_v._1._01
 
         #endregion
 
-        #region dragdrop доделать
+        #region dragdrop 
         private void Tablo_DragDrop(object sender, DragEventArgs e)
         {
-            int i;
-            if (e.Data.GetData(DataFormats.Text) is string && int.TryParse(e.Data.GetData(DataFormats.Text).ToString(),out i))
+            double i;
+            if (e.Data.GetData(DataFormats.Text) is string && (double.TryParse(e.Data.GetData(DataFormats.Text).ToString(),out i) || double.TryParse(e.Data.GetData(DataFormats.Text).ToString().Replace(',','.'), out i)))
             {
                 if (e.Data.GetData(DataFormats.Text).ToString() != "NaN")
                     Tablo.Text = e.Data.GetData(DataFormats.Text).ToString();
@@ -346,6 +346,7 @@ namespace calc_remake_v._1._01
         {
             double arg2 = double.Parse(Tablo.Text);
             Tablo.Text = Math.Sin(arg2).ToString();
+            history.Items.Add(Tablo.Text);
             clear = true;
         }
 
@@ -353,6 +354,7 @@ namespace calc_remake_v._1._01
         {            
             double arg2 = double.Parse(Tablo.Text);
             Tablo.Text = Math.Cos(arg2).ToString();
+            history.Items.Add(Tablo.Text);
             clear = true;
         }
 
@@ -360,6 +362,7 @@ namespace calc_remake_v._1._01
         {
             double arg2 = double.Parse(Tablo.Text);
             Tablo.Text = Math.Pow(arg2, 2).ToString();
+            history.Items.Add(Tablo.Text);
             clear = true;
         }
 
@@ -367,6 +370,7 @@ namespace calc_remake_v._1._01
         {
             double arg2 = double.Parse(Tablo.Text);
             Tablo.Text = Math.Log(arg2).ToString();
+            history.Items.Add(Tablo.Text);
             clear = true;
         }
         #endregion
